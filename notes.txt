@@ -1,0 +1,2 @@
+The file is created in feature update branch to test how branch is 
+operated in git version control system
